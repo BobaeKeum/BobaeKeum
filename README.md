@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**BobaeKeum/BobaeKeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JUCHEOLJIN/JUCHEOLJIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center"> 👋 Hi, there  </h3>
+
+<h4 align="center">안녕하세요. UX적 요소를 중요시 생각하는 개발자 금보배입니다. </h4>
+
+<br>
+
+<h3 align="center"> ⚙ Technology Stack </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white" style="inline-block"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white" style="inline-block"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=white" style="inline-block"/><br/>
+<img src="https://img.shields.io/badge/REACT-blue?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-pink?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+</p>
+<br />
