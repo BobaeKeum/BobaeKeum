@@ -1,7 +1,7 @@
 <!--
-**JUCHEOLJIN/JUCHEOLJIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get me started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <h3 align="center"> 👋 Hi, there  </h3>
 
 <h4 align="center">안녕하세요. 탄탄한 기본기를 중요시 생각하는 개발자 금보배입니다. </h4>
-
+<p align="center">🌱 프론트앤드 개발자로서 리액트를 공부중입니다. </p>
+<p align="center">💬 제가 궁금하다면 <a href=https://catnip-pony-468.notion.site/7de06201d83249e38046adc201161007> 노션</a>을 방문해주세요! </p>
+<p align="center"> </P>
 <br>
 
 <h3 align="center"> ⚙ Technology Stack </h3>
@@ -31,3 +33,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 </p>
 <br />
+
