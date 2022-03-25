@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 👋 Hi, there  </h3>
 
-<h4 align="center">안녕하세요. UX적 요소를 중요시 생각하는 개발자 금보배입니다. </h4>
+<h4 align="center">안녕하세요. 탄탄한 기본기를 중요시 생각하는 개발자 금보배입니다. </h4>
 
 <br>
 
