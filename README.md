@@ -17,7 +17,7 @@ Here are some ideas to get me started:
 
 <h4 align="center">안녕하세요. 탄탄한 기본기를 중요시 생각하는 개발자 금보배입니다. </h4>
 <p align="center">🌱 프론트앤드 개발자로서 React와 Next.js 및 SEO에 대해 공부중입니다. </p>
-<p align="center">💬 제가 궁금하다면 <a href=[https://catnip-pony-468.notion.site/7de06201d83249e38046adc201161007](https://b1313.notion.site/Front-end-SEO-specialist-7de06201d83249e38046adc201161007?pvs=4])> 노션</a>을 방문해주세요! </p>
+<p align="center">💬 제가 궁금하다면 <a href='https://catnip-pony-468.notion.site/7de06201d83249e38046adc201161007](https://b1313.notion.site/Front-end-SEO-specialist-7de06201d83249e38046adc201161007?pvs=4')> 노션</a>을 방문해주세요! </p>
 <p align="center"> </P>
 <br>
 
